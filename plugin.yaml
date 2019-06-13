@@ -1,0 +1,6 @@
+plugin:
+    name: 'chanansys.contactform::lang.plugin.name'
+    description: 'chanansys.contactform::lang.plugin.description'
+    author: chanansys
+    icon: oc-icon-envelope
+    homepage: 'https://chanansystems.co.ke/octobercms/plugins'
